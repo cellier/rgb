@@ -11,15 +11,15 @@ p {
 }
 
 #page {
-	margin: 2em auto  2px  auto;
+	margin: 1em  auto  1px  auto;
 	padding: 2em;
 }
 #logo {
-	margin: 3em  auto  3em  auto;
+	margin: 1em  0.1em  0em  -0.1em;
 }
 #logo2 {
-	width: 14em;
-	margin: 1em  auto  1em  auto;
+	width: 8em;
+	margin: 0em  auto  1em  auto;
 }
 #ins {
 	margin: 1em auto  1em  auto;
@@ -27,6 +27,7 @@ p {
 
 button{
 	font-family: "Avenir Next", 'Avenir', "Helvetica Neue", Helvetica, "proxima-nova",  Arial, "Liberation Sans", "Source Han Sans CN", "Source Han Sans SC",  "Notosans  CJK SC", "Noto Sans S Chinese", "PingFang SC", "Hiragino Sans GB",  "Microsoft  YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti",   "WenQuanYi ZenHei Sharp", sans-serif;
+	font-weight:  lighter;
 	color: #fff;
 	height: 3.5em;
 	width: 9em;
